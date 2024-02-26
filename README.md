@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi006&label=Profile%20views&color=0e75b6&style=flat" alt="khushi006" /> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **food delivery site**
 
 - 🌱 I’m currently learning **Node.js, JavaScript**
 
